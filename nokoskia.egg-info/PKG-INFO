@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: nokoskia
+Version: 8.0
+Summary: A fun tool like cmatrix, but for breaking bad fans.
+Home-page: UNKNOWN
+Author: Pranav S V
+Author-email: pranavsv2004@gmail.com
+License: UNKNOWN
+Keywords: python,breakingbad,movie,fun,funny tools,command line tool
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+
+# nokoskia
+
+`nokoskia` is a fun command-line tool that fills your terminal with the famous Breaking Bad dialogue.
+
+## Installation
+
+You can install `nokoskia` from PyPI using `pip`:
+
+	$ pip install nokoskia
+
+To run ``nokoskia`` :
+
+	$ knock
+
+
+
